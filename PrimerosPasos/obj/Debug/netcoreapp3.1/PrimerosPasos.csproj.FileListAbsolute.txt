@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\bin\Debug\netcoreapp3.1\PrimerosPasos.exe
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\bin\Debug\netcoreapp3.1\PrimerosPasos.deps.json
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\bin\Debug\netcoreapp3.1\PrimerosPasos.runtimeconfig.json
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\bin\Debug\netcoreapp3.1\PrimerosPasos.runtimeconfig.dev.json
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\bin\Debug\netcoreapp3.1\PrimerosPasos.dll
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\bin\Debug\netcoreapp3.1\PrimerosPasos.pdb
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\obj\Debug\netcoreapp3.1\PrimerosPasos.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\obj\Debug\netcoreapp3.1\PrimerosPasos.Form1.resources
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\obj\Debug\netcoreapp3.1\PrimerosPasos.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\obj\Debug\netcoreapp3.1\PrimerosPasos.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\obj\Debug\netcoreapp3.1\PrimerosPasos.AssemblyInfo.cs
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\obj\Debug\netcoreapp3.1\PrimerosPasos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\obj\Debug\netcoreapp3.1\PrimerosPasos.dll
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\obj\Debug\netcoreapp3.1\PrimerosPasos.pdb
+C:\Users\USER\Desktop\APRENDIENDO C#\PrimerosPasos\PrimerosPasos\obj\Debug\netcoreapp3.1\PrimerosPasos.genruntimeconfig.cache
